@@ -23,7 +23,7 @@ This project is designed to answer questions based on a predefined knowledge bas
  
   ![Bot](Question_Answer_output.png)
 
-  ## How It Works
+## How It Works
 
 - **Question Input:** The user provides a question as input.
 - **API Call:** The question is sent to Azure’s QnA Maker or Language Understanding API.
