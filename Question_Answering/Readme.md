@@ -1,4 +1,4 @@
-# Question Answering
+# Question Answering Using Azure
 ## Project Overview
 This project is designed to answer questions based on a predefined knowledge base or FAQ using Azure Cognitive Services. The model can determine the most relevant answer to a given question, providing both the answer and the confidence level of the response.
 
