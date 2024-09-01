@@ -44,6 +44,8 @@ Linked Entities :
         GOOD Music (https://en.wikipedia.org/wiki/GOOD_Music);
         Hotel (https://en.wikipedia.org/wiki/Hotel)
 
+![Review1_TextAnalysis](Text_Analysis/Reviews/Review1_Analysis.png)
+
 
 
 ## How It Works
