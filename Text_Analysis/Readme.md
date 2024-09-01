@@ -38,9 +38,7 @@ Sentiment: positive
 Key Phrases: 'The Royal Hotel', 'Good Hotel', 'good service', 'great location', 'Buckingham Palace', 'Westminster Abbey',etc
 
 Entities :
-        staff (PersonType)
-        Royal Hotel (Location)
-        London (Location)
+        staff (PersonType); Royal Hotel (Location); London (Location)
 
 Linked Entities :
         GOOD Music (https://en.wikipedia.org/wiki/GOOD_Music);
