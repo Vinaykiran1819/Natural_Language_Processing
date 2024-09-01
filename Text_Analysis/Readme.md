@@ -43,3 +43,13 @@ Entities :
 Linked Entities :
         GOOD Music (https://en.wikipedia.org/wiki/GOOD_Music);
         Hotel (https://en.wikipedia.org/wiki/Hotel)
+
+
+
+## How It Works
+The project leverages Azure Cognitive Services to analyze the textual data. Here’s a brief overview of the steps:
+
+Text Input: The reviews are inputted as plain text.
+API Calls: The text is sent to Azure’s Text Analytics API.
+Data Processing: The API processes the text and returns results for language detection, sentiment analysis, key phrase extraction, entity recognition, and linked entities.
+Output Display: The results are printed in the terminal or saved in a JSON file for further analysis.
