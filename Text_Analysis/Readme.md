@@ -45,6 +45,7 @@ Linked Entities :
         Hotel (https://en.wikipedia.org/wiki/Hotel)
 
 ![Review1_TextAnalysis](Reviews/Review1_Analysis.png)
+![Review1_TextAnalysis](Reviews/Review1_Analysis_1.png)
 
 
 
