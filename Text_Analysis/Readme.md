@@ -48,6 +48,9 @@ Linked Entities :
 
 
 
+
+
+
 ## How It Works
 The project leverages Azure Cognitive Services to analyze the textual data. Here’s a brief overview of the steps:
 
