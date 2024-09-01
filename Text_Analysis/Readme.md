@@ -25,4 +25,23 @@ Libraries: Azure SDK for Python, requests, json
 4. Run the Script
 
 ## Sample Output
-Input Review 
+### Input Review 
+Good Hotel and staff
+The Royal Hotel, London, UK
+3/2/2018
+Clean rooms, good service, great location near Buckingham Palace and Westminster Abbey, and so on. We thoroughly enjoyed our stay. The courtyard is very peaceful and we went to a restaurant which is part of the same group and is Indian ( West coast so plenty of fish) with a Michelin Star. We had the taster menu which was fabulous. The rooms were very well appointed with a kitchen, lounge, bedroom and enormous bathroom. Thoroughly recommended.
+
+Language: English
+
+Sentiment: positive
+
+Key Phrases: 'The Royal Hotel', 'Good Hotel', 'good service', 'great location', 'Buckingham Palace', 'Westminster Abbey',etc
+
+Entities :
+        staff (PersonType)
+        Royal Hotel (Location)
+        London (Location)
+
+Links
+        GOOD Music (https://en.wikipedia.org/wiki/GOOD_Music)
+        Hotel (https://en.wikipedia.org/wiki/Hotel)
