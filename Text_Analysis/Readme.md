@@ -33,7 +33,7 @@ Clean rooms, good service, great location near Buckingham Palace and Westminster
 
 Language: English
 
-Sentiment: positive
+Sentiment: Positive
 
 Key Phrases: 'The Royal Hotel', 'Good Hotel', 'good service', 'great location', 'Buckingham Palace', 'Westminster Abbey',etc
 
