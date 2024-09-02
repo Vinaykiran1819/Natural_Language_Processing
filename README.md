@@ -1,4 +1,7 @@
-# Natural_Language_Processing
+# Natural Language Processing Projects
+
+### 1. Text Analysis
+### 2. Question Answering
 
 ## Technologies Used
 - **Programming Language:** Python
